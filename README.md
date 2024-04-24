@@ -13,6 +13,5 @@ Meu nome é jeferSON6699(Jhenifer Rodrigues)
 
 @jeferSON6699
 
-![]()
-![descrição do GIF](link GIF do Tenor)
+![]()[descrição do GIF](link GIF do Tenor)
 
